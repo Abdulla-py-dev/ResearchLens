@@ -1,0 +1,22 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# secrets — never commit API keys
+.env
+.streamlit/secrets.toml
+
+# generated at runtime
+*.faiss
+*.pkl
+
+# personal tracking/planning docs and dev-only config — kept locally,
+# not part of the public deliverable
+PROJECT_STATE.md
+PROPOSED_WORKFLOW.md
+PROJECT_EXPLAINED.txt
+.vscode/
+
+# test/demo fixture — the app takes user-uploaded PDFs, doesn't need this
+data/paper.pdf
