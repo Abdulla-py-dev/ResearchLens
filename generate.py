@@ -1,4 +1,4 @@
-# Part 4 — Generation (Llama 3 via Groq, LangChain RAG chain)
+# Part 4 — Generation (Llama 3 via Groq,, LangChain RAG chain)
 from dotenv import load_dotenv
 
 load_dotenv()
