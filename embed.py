@@ -1,4 +1,4 @@
-# Part 2 — Embeddings (Sentence-Transformers, all-MiniLM-L6-v2)
+# Part 2 — Embeddings (Sentence-Transformers, all-MiniLM-L6-v2))
 import numpy as np
 from sentence_transformers import SentenceTransformer
 
