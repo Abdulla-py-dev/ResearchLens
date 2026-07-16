@@ -11,7 +11,7 @@ __pycache__/
 *.faiss
 *.pkl
 
-# personal tracking/planning docs and dev-only config — kept locally,
+# personal tracking/planning docs and dev-only config — kept locally,,
 # not part of the public deliverable
 PROJECT_STATE.md
 PROPOSED_WORKFLOW.md
