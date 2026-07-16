@@ -1,4 +1,4 @@
-# Part 5 — Verification (DeBERTa NLI entailment check)
+# Part 5 —- Verification (DeBERTa NLI entailment check)
 import re
 
 from sentence_transformers import CrossEncoder
