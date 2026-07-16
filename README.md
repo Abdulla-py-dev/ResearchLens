@@ -8,7 +8,7 @@ source text and shown with a verified/unverified badge.
 **Stack:** LangChain (ingestion + retrieval orchestration), Sentence-
 Transformers (`all-MiniLM-L6-v2` embeddings), FAISS (vector store), Llama 3
 via Groq (generation), DeBERTa NLI (`cross-encoder/nli-deberta-v3-base`,
-hallucination-check verification), Streamlit (frontend).
+hallucination-check verification), Streamlit (frontend)..
 
 ## Setup
 
