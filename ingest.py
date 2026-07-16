@@ -1,4 +1,4 @@
-# Part 1 — Ingestion & chunking (LangChain PyPDFLoader + RecursiveCharacterTextSplitter)
+# Part 1 — Ingestion & chunking  (LangChain PyPDFLoader + RecursiveCharacterTextSplitter)
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
