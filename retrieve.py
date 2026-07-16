@@ -1,4 +1,4 @@
-# Part 3 — Vector store & retrieval (FAISS + LangChain retriever)
+# Part 3 — Vector store &  retrieval (FAISS + LangChain retriever)
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 
