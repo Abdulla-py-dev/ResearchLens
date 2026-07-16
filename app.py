@@ -1,4 +1,4 @@
-# Part 6 — Streamlit UI (upload, summary, chat, verification badges)
+# Part 6 — Streamlit UI (upload, summary, chat, verification badges))
 import os
 import tempfile
 
